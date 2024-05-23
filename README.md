@@ -1,6 +1,6 @@
-               Interfaz de Estacion terrena Cansat mundial 2024
+Interfaz de Estacion terrena Cansat mundial 2024
 
-                         -------Space arachnids-------
+      -------Space arachnids-------
 
                 ........                
           ....            ....          
@@ -23,5 +23,4 @@
              ....... ......             
                 ........                
 
-
-            -------- Universidad Politecnica de Tulancingo --------
+---- Universidad Politecnica de Tulancingo ----
